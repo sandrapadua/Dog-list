@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import Doglist from './Doglist'
+import Doglist from './DoglistContainer'
 function App() {
   return (
     <div className="App">
